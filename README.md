@@ -60,7 +60,7 @@ Users can manage tasks/notes with rich metadata and an enhanced user interface.
 ##  Project Structure
 
 mern-task-manager/
-│
+│__screenshots
 ├── backend/
 │ ├── server.js
 │ ├── config/
