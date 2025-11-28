@@ -83,8 +83,7 @@ mern-task-manager/
 │
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
@@ -160,13 +159,11 @@ Task list displayed as cards with priority colors
 
 
    Assumptions
-Evaluator will run MongoDB locally.
+ MongoDB will run  locally.
 
 .env file is not included for security reasons.
 
 Database and collection are created automatically by Mongoose.
-
-Authentication is not implemented as it was not explicitly required.
 
    Bonus / Enhancements
 Improved UI with card-based layout
